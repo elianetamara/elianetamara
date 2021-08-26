@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @elianetamara
+- 🌱 I’m currently learning java and react on a school project
